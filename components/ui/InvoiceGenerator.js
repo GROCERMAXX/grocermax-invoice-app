@@ -1,8 +1,8 @@
 
 import { useState } from 'react';
-import { Input } from "@/components/ui/input";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+import { Input } from "./input";
+import { Button } from "./button";
+import { Card, CardContent } from "./card";
 import jsPDF from "jspdf";
 import autoTable from "jspdf-autotable";
 import Image from "next/image";
