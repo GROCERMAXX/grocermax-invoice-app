@@ -1,1 +1,1 @@
-// Debtor Management
+// Full Debtor Management Page

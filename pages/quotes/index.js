@@ -1,1 +1,1 @@
-// Quote Generator Page
+// Full Quote Generator Page

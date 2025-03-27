@@ -1,1 +1,1 @@
-// Invoice Generator Page
+// Full Invoice Generator Page

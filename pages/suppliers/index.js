@@ -1,1 +1,1 @@
-// Supplier Invoice Page
+// Full Supplier Invoice Page
