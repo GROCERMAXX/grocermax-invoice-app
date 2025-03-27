@@ -1,1 +1,1 @@
-// Input component
+// input component

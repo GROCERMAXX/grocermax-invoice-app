@@ -1,1 +1,1 @@
-// PostCSS config
+// postcss config
