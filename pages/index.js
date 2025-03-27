@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <div style={{ padding: "2rem", textAlign: "center" }}>
-      <h1 style={{ fontSize: "2rem", fontWeight: "bold" }}>Welcome to GrocerMax 🚀</h1>
-      <p>Login to get started with invoicing, quotes, inventory and more.</p>
+    <div className='p-10 text-center'>
+      <h1 className='text-4xl font-bold mb-4'>Welcome to GrocerMax 🚀</h1>
+      <p className='text-lg'>Your accounting system is now live on Netlify!</p>
     </div>
   );
 }
